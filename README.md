@@ -13,6 +13,7 @@ Stanford's Summer introductory course on Artificial Intelligence.
 - Lesson 7: [Decision Tree Regression](/lesson%207_%20decision_tree%20(incomplete).ipynb)
 - Lesson 8: [Sklearn](/lesson%208_%20sklearn_intro_par1.ipynb)
 - Lesson 9: [More Sklearn & Kaggle](/lesson%209_%20kaggle.ipynb)
+- Lesson 10: [Optimization](https://colab.research.google.com/drive/1_Ld11CBo9MRcV1TA6ZutorV35-GixWqE?usp=sharing)
 
 ## Assignments (Google Collab)
 - Assignment 1: [Python Practice Problem](https://colab.research.google.com/drive/1VQHxZOrspdbs-2iBc3UThUmWbllTU7_L)
