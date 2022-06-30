@@ -1,5 +1,5 @@
 # Stanford AI
-Stanford's Summer introductory course on Artificial Intelligence.
+Stanford's summer introductory course on [Artificial Intelligence](https://summerinstitutes.spcs.stanford.edu/courses/2022/artificial-intelligence?source=/courses/2022). Taught by Dr. Amir Maleki.
 
 ## Lessons
 - Lesson 1: [Introduction to Python](/lesson%201_%20introduction%20to%20python.ipynb)
