@@ -17,6 +17,8 @@ Stanford's summer introductory course on [Artificial Intelligence](https://summe
 - Lesson 11: [Grid Search](/lesson%2011_%20sklearn_intro_part2%20(incomplete).ipynb)
 - Lesson 12: [Classifiers](/lesson%2012_%20classification_metric%20(incomplete).ipynb)
 - Lesson 13: [Neural Networks](https://colab.research.google.com/drive/1Vk2bM32X_oDikeglOXQLbTBZ7AhjGG_S?usp=sharing)
+- Lesson 14: [Convolutional Neural Network](https://colab.research.google.com/drive/19E2iWS1zJDpbMmJ8D-9Y0HtFTH-PARiu?usp=sharing)
+- Lesson 15: [K-Means Clustering](https://colab.research.google.com/drive/1MdHUtZmybUYWuzRjfc0QKktj0lKFih66#scrollTo=fw6dEAxn8PJl)
 
 ## Assignments (Google Collab)
 - Assignment 0: [Teachable Machine](https://www.youtube.com/shorts/9IkXX57pqPE)
